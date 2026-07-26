@@ -293,7 +293,7 @@ This project is intended for **educational and learning purposes**.
 
 💻 Java Developer | Computer Science Student
 
-**GitHub:** https://github.com/Naveed548376
+**GitHub:** https://github.com/farhanalikalyani
 
 ---
 
