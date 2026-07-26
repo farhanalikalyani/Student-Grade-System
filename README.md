@@ -289,9 +289,9 @@ This project is intended for **educational and learning purposes**.
 
 # 👨‍💻 Author
 
-**Naveed Abbas**
+**Farhan Ali**
 
-💻 Java Developer | Cyber Security Student
+💻 Java Developer | Computer Science Student
 
 **GitHub:** https://github.com/Naveed548376
 
